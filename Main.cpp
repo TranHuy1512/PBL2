@@ -10,7 +10,6 @@ int main()
     c1->AddStudent(a1);
     c1->AddStudent(a2);
     cout << *c1;
-    // a1->getBirthday();
     delete a1;
     delete a2;
     delete c1;

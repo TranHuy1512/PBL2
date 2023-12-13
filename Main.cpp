@@ -14,5 +14,5 @@ int main()
     delete a2;
     delete c1;
     return 0;
-    cout << "Hello con gà";
+    cout << "Hello con cho";
 }

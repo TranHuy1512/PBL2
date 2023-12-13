@@ -14,5 +14,4 @@ int main()
     delete a2;
     delete c1;
     return 0;
-    cout << "Hello 10 diem";
 }
